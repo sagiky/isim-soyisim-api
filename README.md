@@ -1,2 +1,2 @@
 # isim-soyisim-api
- Node.js ile yazılmış, Express modülü ile bir API yapmamı anlamak için oluşturduğum deneme projem. Basit bir mantıkta çalışmaktadır.
+ This is a test project I created to understand how to build an API with the Express module, written in Node.js. It offers nothing crazy at all.
